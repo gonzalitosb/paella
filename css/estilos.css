@@ -132,3 +132,17 @@ footer{
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Victor+Mono:wght@100&display=swap');
+
+@media (max-width:700px) {
+  .video{
+
+  display: none;
+
+  }
+
+  @media (max-width:700px) {
+    .logo{
+
+    display: none;
+
+    }
