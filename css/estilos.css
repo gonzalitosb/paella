@@ -144,5 +144,29 @@ footer{
     .logo{
 
     display: none;
+    }
 
+    .encabezadolugares{
+      width: 2%;
+      padding: 2%;
+      margin: 2%;
+      margin-top: 15%;
+      margin-right: 10%;
+    }
+
+    .row{
+      background-color: #30353D ;
+      display: flex;
+      justify-content: space-around;
+    }
+
+    .card{
+      border: #1F618D;
+      border-width: 5px;
+    }
+
+    .card-title{
+      text-align: center;
+      color: #1F618D;
+      font-size: 32px;
     }
