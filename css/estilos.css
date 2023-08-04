@@ -42,6 +42,15 @@ header{
   flex-wrap: wrap;
   align-items: center;
 
+}
+
+.barra{position: fixed;
+  color:white;
+
+  background-color:Black;
+
+
+
 
 }
 
@@ -52,6 +61,9 @@ header{
   border-bottom-left-radius: 30px;
   width: 35%;
 }
+
+
+
 
 section{
     width: 100%;
